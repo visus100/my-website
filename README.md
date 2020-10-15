@@ -12,3 +12,7 @@ This file is just a deadme file.
 
 The purpose of this file is to provide example
 on how to use git and github together.
+
+## Getting started
+
+to get started with this project, just `clone` this reposytory.
