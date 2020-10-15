@@ -2,6 +2,4 @@
 
 This is a really awesome website
 
-Now editing on update-readme
-
-Update locally
+Updates mad on master on Github before rebase
